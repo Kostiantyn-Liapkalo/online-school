@@ -5,7 +5,7 @@
               name="Online School" 
               web_icon="online_school,static/description/icon.svg"
               action="action_school_course"
-              groups="base.group_user"
+              groups="online_school.group_school_admin,online_school.group_school_teacher,online_school.group_school_student"
               sequence="10"/>
 
     <!-- Courses Submenu -->
